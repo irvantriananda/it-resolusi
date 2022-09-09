@@ -1,3 +1,4 @@
 IT RESOLUSI
 - Konsisisten belajar github dan git
 - Membuat Web dari template github
+- Belajar HTML CSS dan Java Script
