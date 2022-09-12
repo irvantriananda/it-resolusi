@@ -1,4 +1,6 @@
 IT RESOLUSI
+- Belajar HTML CSS dan JS
 - Konsisisten belajar github dan git
-- Membuat Web dari template github
-- Belajar HTML CSS dan Next JS
+- Membuat Web dari bootsrap
+- Mengupload di Github repository
+- 

@@ -1,5 +1,4 @@
 RENCANA KONTEN IT
-
 - Blog JS
 - Netlify pages
 - Gatsby
